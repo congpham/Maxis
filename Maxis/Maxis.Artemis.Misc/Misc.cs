@@ -8,5 +8,6 @@ namespace Maxis.Artemis.Misc
     public class Misc
     {
         public int UId { get; set; }
+        public int FId { get; set; }
     }
 }
