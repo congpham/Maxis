@@ -1,0 +1,5 @@
+C:\Users\ThanhCong\Desktop\git\Maxis-Master\Maxis\Maxis.Artemis.Misc\bin\Debug\Maxis.Artemis.Misc.dll
+C:\Users\ThanhCong\Desktop\git\Maxis-Master\Maxis\Maxis.Artemis.Misc\bin\Debug\Maxis.Artemis.Misc.pdb
+C:\Users\ThanhCong\Desktop\git\Maxis-Master\Maxis\Maxis.Artemis.Misc\obj\Debug\Maxis.Artemis.Misc.csprojResolveAssemblyReference.cache
+C:\Users\ThanhCong\Desktop\git\Maxis-Master\Maxis\Maxis.Artemis.Misc\obj\Debug\Maxis.Artemis.Misc.dll
+C:\Users\ThanhCong\Desktop\git\Maxis-Master\Maxis\Maxis.Artemis.Misc\obj\Debug\Maxis.Artemis.Misc.pdb
